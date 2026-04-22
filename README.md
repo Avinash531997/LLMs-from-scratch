@@ -1,3 +1,21 @@
+# DCS Lab Notes on LLM from Scratch
+
+This repository is a fork of Sebastian Raschka's work:
+https://github.com/rasbt/LLMs-from-scratch
+
+## Purpose of this fork
+- Used for my DCS Lab YouTube series
+- Breaking down LLM concepts step-by-step
+- Adding explanations, experiments, and visualizations
+
+## Attribution
+All original code belongs to Sebastian Raschka.
+This repository builds upon his work for educational purposes.
+
+---
+
+# (Original README below)
+
 # Build a Large Language Model (From Scratch)
 
 This repository contains the code for developing, pretraining, and finetuning a GPT-like LLM and is the official code repository for the book [Build a Large Language Model (From Scratch)](https://amzn.to/4fqvn0D).
